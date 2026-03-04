@@ -1,4 +1,4 @@
-# Python-project-SHA-1-passcracker <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
+# SHA-1 Passcracker <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 
 Passwords should never be stored in plain text. They should be stored as hashes, just in case the password list is discovered. However, not all hashes are created equal. For this project a password cracker was created in order to figure out passwords that were hashed using SHA-1.
 
